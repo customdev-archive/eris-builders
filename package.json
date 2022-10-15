@@ -1,7 +1,7 @@
 {
   "author": "Two",
   "name": "eris-builders",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "discord.js-like builder classes for Eris.",
 
   "type": "module",
