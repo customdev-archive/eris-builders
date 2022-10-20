@@ -7,12 +7,12 @@
   "type": "module",
   "main": "src/index.js",
 
-  "homepage": "https://github.com/real2two/eris-builders#readme",
+  "homepage": "https://github.com/custom-developments/eris-builders#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/real2two/eris-builders.git"
+    "url": "git+https://github.com/custom-developments/eris-builders.git"
   },
   "bugs": {
-    "url": "https://github.com/real2two/eris-builders/issues"
+    "url": "https://github.com/custom-developments/eris-builders/issues"
   }
 }
