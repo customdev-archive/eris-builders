@@ -19,7 +19,7 @@ export class EmbedBuilder {
     }
 
     setAuthor({ name, iconURL, url }) {
-        this.author = { name, iconURL, url };
+        this.author = { name, icon_url: iconURL, url };
         return this;
     }
 
